@@ -32,7 +32,8 @@
     "date.js": "~0.2.0",
     "mongoskin": "~1.4.1",
     "cron": "~1.0.1",
-    "node-serialize": "0.0.4"
+    "node-serialize": "0.0.4",
+    "funcster": "0.0.3"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
